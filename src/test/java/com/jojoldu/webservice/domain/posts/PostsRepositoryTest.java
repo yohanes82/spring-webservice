@@ -1,4 +1,4 @@
-package com.jojoldu.webservise.domain.posts;
+package com.jojoldu.webservice.domain.posts;
 
 import org.junit.After;
 import org.junit.Test;
